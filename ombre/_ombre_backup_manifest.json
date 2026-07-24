@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 13,
+  "file_count": 14,
   "files": [
     {
       "bytes": 435,
@@ -31,6 +31,11 @@
       "bytes": 849,
       "path": "dynamic/编程/2026-07-24 19-24-53 远程控制备用机计划_9a3f5e5ebf9f.md",
       "sha256": "ec76474a260ddeab5eca1f79877350ad307c779c34dd39703b9fa5cba4840a85"
+    },
+    {
+      "bytes": 815,
+      "path": "dynamic/编程/2026-07-24 22-50-24 云服务器部署与试岗_7e0e90ee30e8.md",
+      "sha256": "b7d64b5a19b824a13df3225fd7b2176887d35cd3897d9cf9da2e66cc97714458"
     },
     {
       "bytes": 1471,
@@ -68,10 +73,10 @@
       "sha256": "a4ee7df2bc5c720c2d209edbd85df01c7bc469bd637992e11cc4655efe512fc7"
     }
   ],
-  "generated_at": "2026-07-24T14:37:52+00:00",
+  "generated_at": "2026-07-24T15:07:57+00:00",
   "path_prefix": "ombre",
   "repo": "0922end/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 15302
+  "total_bytes": 16117
 }
