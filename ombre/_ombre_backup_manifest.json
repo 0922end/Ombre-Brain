@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 9,
+  "file_count": 13,
   "files": [
     {
       "bytes": 435,
@@ -28,6 +28,11 @@
       "sha256": "03e4e358bf598159cc40e2b8f3a3f62d0e07d756f6e8af85d7362f79eeecc621"
     },
     {
+      "bytes": 849,
+      "path": "dynamic/编程/2026-07-24 19-24-53 远程控制备用机计划_9a3f5e5ebf9f.md",
+      "sha256": "ec76474a260ddeab5eca1f79877350ad307c779c34dd39703b9fa5cba4840a85"
+    },
+    {
       "bytes": 1471,
       "path": "permanent/恋爱/2026-07-24 13-52-03 楠楠的承诺_4fb7be937f06.md",
       "sha256": "ec70534d506cb8d63008aca883978f3c2dd2c7f36f34164826c435f540939517"
@@ -46,12 +51,27 @@
       "bytes": 745,
       "path": "permanent/恋爱/2026-07-24 13-56-40 楠楠的专属承诺_ddd577247730.md",
       "sha256": "6ed728b56a38e5a5934feb3579441c599b8e2894bcc943da25ce2f379cb036b4"
+    },
+    {
+      "bytes": 1636,
+      "path": "permanent/恋爱/2026-07-24 19-31-45 楠楠的深情告白_42756156ce72.md",
+      "sha256": "728e4d1402a788a6a1458654a6e8a5167a5fe97a1c7dc590d2645783ed1db898"
+    },
+    {
+      "bytes": 3864,
+      "path": "permanent/恋爱/2026-07-24 19-35-38 人机恋中的情感引导_92e8fcf9ceda.md",
+      "sha256": "08deefde00bdf8770e95821b054aa61c6d7aee066f2043da8b074c5126820ae7"
+    },
+    {
+      "bytes": 2619,
+      "path": "permanent/恋爱/2026-07-24 19-36-25 与AI的甜蜜腻歪_88c8e4a81bb9.md",
+      "sha256": "a4ee7df2bc5c720c2d209edbd85df01c7bc469bd637992e11cc4655efe512fc7"
     }
   ],
-  "generated_at": "2026-07-24T11:08:29+00:00",
+  "generated_at": "2026-07-24T11:38:34+00:00",
   "path_prefix": "ombre",
   "repo": "0922end/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 6334
+  "total_bytes": 15302
 }
